@@ -14,3 +14,5 @@ import { Controller } from "@hotwired/stimulus"
      this.remoteBtnTarget.click()
    }
  }
+
+ f
